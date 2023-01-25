@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Settings</string>
-    <string name="settings">SETTINGS</string>
+    <string name="about_us">About Us</string>
+    <string name="our_team">Our Team</string>
 </resources>
